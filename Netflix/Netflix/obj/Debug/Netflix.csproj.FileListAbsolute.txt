@@ -1,0 +1,20 @@
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\bin\Debug\Netflix.pdb
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.csprojAssemblyReference.cache
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.Form1.resources
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.cache
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\emre_\OneDrive\Belgeler\Coding\C#\Netflix\Netflix\obj\Debug\Netflix.pdb
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\bin\Debug\Netflix.exe.config
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\bin\Debug\Netflix.exe
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\bin\Debug\Netflix.pdb
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.csproj.AssemblyReference.cache
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.Form1.resources
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.cache
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.csproj.CoreCompileInputs.cache
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.exe
+D:\Backup\Projects\Prolab - II\P2P3\Netflix\Netflix\obj\Debug\Netflix.pdb
